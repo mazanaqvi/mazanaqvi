@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ali Hamza</h1>
+<h1 align="center">Hi 👋, I'm Ahmad Hamza</h1>
 <h3 align="center">A passionate Flutter Mobile App Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mazanaqvi&label=Profile%20views&color=0e75b6&style=flat" alt="mazanaqvi" /> </p>
