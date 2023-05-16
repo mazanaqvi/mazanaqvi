@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ahmad Hamza</h1>
+<h1 align="center">Hi 👋, I'm Ali Hamza</h1>
 <h3 align="center">A passionate Flutter Mobile App Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mazanaqvi&label=Profile%20views&color=0e75b6&style=flat" alt="mazanaqvi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mazanaqvi" alt="mazanaqvi" /></a> </p>
 
-- 🌱 I’m currently learning **GraphQL Swift iOS Development**
+- 🌱 I’m currently learning **Swift iOS Development**
 
 - 👨‍💻 All of my projects are available at [https://mazanaqvi.github.io/portfolio/](https://mazanaqvi.github.io/portfolio/)
 
