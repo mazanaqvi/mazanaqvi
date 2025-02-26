@@ -1,37 +1,132 @@
-<h1 align="center">Hi 👋, I'm Ali Hamza</h1>
-<h3 align="center">A passionate Flutter Mobile App Developer</h3>
+# Ali Hamza | Mobile App Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mazanaqvi&label=Profile%20views&color=0e75b6&style=flat" alt="mazanaqvi" /> </p>
+<div align="center">
+  <img src="https://api.placeholder.com/400/320" alt="Flutter Developer Banner" width="100%"/>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-mazanaqvi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mazanaqvi)
+  [![Twitter](https://img.shields.io/badge/Twitter-mazaanaqvi-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mazaanaqvi)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mazanaqvi.github.io/portfolio/)
+  [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadhamzanaqvi@gmail.com)
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mazanaqvi" alt="mazanaqvi" /></a> </p>
+## About Me 👨‍💻
 
-- 🌱 I’m currently learning **Swift iOS Development**
+Hey there! I'm **Ali Hamza**, a passionate **Flutter** developer with expertise in creating beautiful, high-performance mobile applications. With a solid foundation in mobile development, I love building intuitive user experiences that solve real-world problems.
 
-- 👨‍💻 All of my projects are available at [https://mazanaqvi.github.io/portfolio/](https://mazanaqvi.github.io/portfolio/)
+- 📱 Specialized in **Flutter** for cross-platform mobile development
+- 🔥 Experienced with **Firebase** for backend solutions
+- 🚀 Currently expanding my skills in **Swift** for native iOS development
+- 🌐 Full-stack capabilities with experience in **Node.js**
 
-- 💬 Ask me about **Flutter Firebase Node JS Android and iOS**
+[View my resume](https://drive.google.com/uc?export=download&id=1g2aZNOC1MgXczo9n24C0WRhdJZCkELc6) | [Visit my portfolio](https://mazanaqvi.github.io/portfolio/)
 
-- 📫 How to reach me **ahmadhamzanaqvi@gmail.com**
+## Tech Stack 🛠️
 
-- 📄 Know about my experiences [https://drive.google.com/uc?export=download&id=1g2aZNOC1MgXczo9n24C0WRhdJZCkELc6](https://drive.google.com/uc?export=download&id=1g2aZNOC1MgXczo9n24C0WRhdJZCkELc6)
+<div align="center">
+  
+  ### Mobile Development
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+  ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+  ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+  
+  ### Backend & Database
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+  
+  ### Web Development
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+  
+  ### Tools & Others
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/mazanaqvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mazanaqvi" height="30" width="40" /></a>
-<a href="https://twitter.com/mazaanaqvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mazaanaqvi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mazanaqvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mazanaqvi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/13111347" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13111347" height="30" width="40" /></a>
-<a href="https://fb.com/mazaanaqvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mazaanaqvi" height="30" width="40" /></a>
-<a href="https://instagram.com/mazanaqvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mazanaqvi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mazanaqvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mazanaqvi" height="30" width="40" /></a>
-</p>
+## Featured Projects 🌟
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Project 1</h3>
+        <div align="center">
+          <img src="https://api.placeholder.com/400/320" alt="Project 1" width="100%"/>
+          <p>
+            <a href="https://github.com/mazanaqvi/project1" target="_blank">
+              <img src="https://img.shields.io/badge/Code-Github-3A3B3C?style=for-the-badge&logo=github&logoColor=white">
+            </a>
+            <a href="https://yourwebsite.com/project1" target="_blank">
+              <img src="https://img.shields.io/badge/Live-Demo-5AC8FA?style=for-the-badge&logo=google-chrome&logoColor=white">
+            </a>
+          </p>
+          <p><strong>Flutter, Firebase, Google Maps API</strong> - A location-based service app with real-time updates.</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">Project 2</h3>
+        <div align="center">
+          <img src="https://api.placeholder.com/400/320" alt="Project 2" width="100%"/>
+          <p>
+            <a href="https://github.com/mazanaqvi/project2" target="_blank">
+              <img src="https://img.shields.io/badge/Code-Github-3A3B3C?style=for-the-badge&logo=github&logoColor=white">
+            </a>
+            <a href="https://yourwebsite.com/project2" target="_blank">
+              <img src="https://img.shields.io/badge/Live-Demo-5AC8FA?style=for-the-badge&logo=google-chrome&logoColor=white">
+            </a>
+          </p>
+          <p><strong>Flutter, Node.js, MongoDB</strong> - An e-commerce platform with secure payment gateway integration.</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mazanaqvi&show_icons=true&locale=en&layout=compact" alt="mazanaqvi" /></p>
+## GitHub Analytics 📊
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mazanaqvi&show_icons=true&locale=en" alt="mazanaqvi" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mazanaqvi&show_icons=true&theme=tokyonight" alt="mazanaqvi's GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazanaqvi&layout=compact&theme=tokyonight" alt="mazanaqvi's Top Languages" height="170"/>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mazanaqvi&" alt="mazanaqvi" /></p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mazanaqvi&theme=tokyonight" alt="mazanaqvi's Streak Stats" width="70%"/>
+</div>
 
+## Let's Connect 🤝
+
+<div align="center">
+  <a href="https://linkedin.com/in/mazanaqvi">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/mazaanaqvi">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://stackoverflow.com/users/13111347">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
+  </a>
+  <a href="https://instagram.com/mazanaqvi">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://dev.to/mazanaqvi">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
+  </a>
+  <a href="https://www.youtube.com/c/mazanaqvi">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mazanaqvi&style=flat-square&color=blue" alt=""/>
+  
+  <p>💬 <i>Feel free to reach out for collaborations or just a friendly chat!</i></p>
+  
+  [![Email Me](https://img.shields.io/badge/Email_Me-ahmadhamzanaqvi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadhamzanaqvi@gmail.com)
+</div>
