@@ -1,132 +1,111 @@
-# Ali Hamza | Mobile App Developer
-
 <div align="center">
-  <img src="https://api.placeholder.com/400/320" alt="Flutter Developer Banner" width="100%"/>
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-mazanaqvi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mazanaqvi)
-  [![Twitter](https://img.shields.io/badge/Twitter-mazaanaqvi-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mazaanaqvi)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mazanaqvi.github.io/portfolio/)
-  [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadhamzanaqvi@gmail.com)
+
+# Hey, I'm Ali Hamza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
+### Software Engineer & Mobile App Developer
+
+<a href="https://alihumza.com">
+  <img src="https://img.shields.io/badge/Portfolio-alihumza.com-3b82f6?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+<a href="https://www.xrossapps.com/">
+  <img src="https://img.shields.io/badge/Company-XrossApps.com-0d9488?style=for-the-badge&logo=safari&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/mazanaqvi/">
+  <img src="https://img.shields.io/badge/LinkedIn-mazanaqvi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:alihumza.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-alihumza.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </div>
 
-## About Me 👨‍💻
+---
 
-Hey there! I'm **Ali Hamza**, a passionate **Flutter** developer with expertise in creating beautiful, high-performance mobile applications. With a solid foundation in mobile development, I love building intuitive user experiences that solve real-world problems.
+```dart
+class AliHamza {
+  final role       = "Senior Software Engineer";
+  final company    = "Breezelab, Singapore";
+  final sideHustle = "Founder @ XrossApps.com";
+  final location   = "Lahore, Pakistan";
+  final experience = "5+ years";
+  final projects   = "20+ delivered";
+  
+  List<String> get dailyTools => [
+    "Flutter", "Dart", "React Native", "TypeScript",
+    "Node.js", "Django", "Firebase", "REST APIs",
+  ];
+}
+```
 
-- 📱 Specialized in **Flutter** for cross-platform mobile development
-- 🔥 Experienced with **Firebase** for backend solutions
-- 🚀 Currently expanding my skills in **Swift** for native iOS development
-- 🌐 Full-stack capabilities with experience in **Node.js**
+---
 
-[View my resume](https://drive.google.com/uc?export=download&id=1g2aZNOC1MgXczo9n24C0WRhdJZCkELc6) | [Visit my portfolio](https://mazanaqvi.github.io/portfolio/)
+### What I Do
 
-## Tech Stack 🛠️
+- Build **cross-platform mobile apps** with Flutter & React Native — from idea to App Store / Play Store
+- Architect **backend systems** with Node.js, Django, and Firebase
+- Run **[XrossApps](https://www.xrossapps.com/)** — my software development company
+- Craft **responsive web apps** with React + TypeScript
+
+---
+
+### Tech Stack
 
 <div align="center">
-  
-  ### Mobile Development
-  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-  ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-  ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-  
-  ### Backend & Database
-  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-  
-  ### Web Development
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-  
-  ### Tools & Others
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Mobile** &nbsp;&nbsp;|&nbsp;&nbsp; **Backend** &nbsp;&nbsp;|&nbsp;&nbsp; **Web** &nbsp;&nbsp;|&nbsp;&nbsp; **Languages** &nbsp;&nbsp;|&nbsp;&nbsp; **Tools**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
 </div>
 
-## Featured Projects 🌟
+---
+
+### Career Path
+
+| When | Where | Role |
+|:-----|:------|:-----|
+| **2024 — Now** | Breezelab, Singapore | Senior Developer (Remote) |
+| **2023 — 2024** | Wave, USA | Software Engineer (Remote) |
+| **2022 — 2023** | Innovage.io | Software Engineer |
+| **2020 — Now** | Freelance / XrossApps | Founder & Lead Developer |
+
+**Education** &mdash; BS Computer Science, FAST NUCES (2018 — 2022)
+
+---
+
+### GitHub Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Project 1</h3>
-        <div align="center">
-          <img src="https://api.placeholder.com/400/320" alt="Project 1" width="100%"/>
-          <p>
-            <a href="https://github.com/mazanaqvi/project1" target="_blank">
-              <img src="https://img.shields.io/badge/Code-Github-3A3B3C?style=for-the-badge&logo=github&logoColor=white">
-            </a>
-            <a href="https://yourwebsite.com/project1" target="_blank">
-              <img src="https://img.shields.io/badge/Live-Demo-5AC8FA?style=for-the-badge&logo=google-chrome&logoColor=white">
-            </a>
-          </p>
-          <p><strong>Flutter, Firebase, Google Maps API</strong> - A location-based service app with real-time updates.</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">Project 2</h3>
-        <div align="center">
-          <img src="https://api.placeholder.com/400/320" alt="Project 2" width="100%"/>
-          <p>
-            <a href="https://github.com/mazanaqvi/project2" target="_blank">
-              <img src="https://img.shields.io/badge/Code-Github-3A3B3C?style=for-the-badge&logo=github&logoColor=white">
-            </a>
-            <a href="https://yourwebsite.com/project2" target="_blank">
-              <img src="https://img.shields.io/badge/Live-Demo-5AC8FA?style=for-the-badge&logo=google-chrome&logoColor=white">
-            </a>
-          </p>
-          <p><strong>Flutter, Node.js, MongoDB</strong> - An e-commerce platform with secure payment gateway integration.</p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## GitHub Analytics 📊
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mazanaqvi&show_icons=true&theme=tokyonight" alt="mazanaqvi's GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazanaqvi&layout=compact&theme=tokyonight" alt="mazanaqvi's Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mazanaqvi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazanaqvi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mazanaqvi&theme=tokyonight" alt="mazanaqvi's Streak Stats" width="70%"/>
-</div>
-
-## Let's Connect 🤝
-
-<div align="center">
-  <a href="https://linkedin.com/in/mazanaqvi">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/mazaanaqvi">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://stackoverflow.com/users/13111347">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
-  </a>
-  <a href="https://instagram.com/mazanaqvi">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://dev.to/mazanaqvi">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
-  </a>
-  <a href="https://www.youtube.com/c/mazanaqvi">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mazanaqvi&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3b82f6&fire=60a5fa&currStreakLabel=3b82f6" width="70%" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mazanaqvi&style=flat-square&color=blue" alt=""/>
-  
-  <p>💬 <i>Feel free to reach out for collaborations or just a friendly chat!</i></p>
-  
-  [![Email Me](https://img.shields.io/badge/Email_Me-ahmadhamzanaqvi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadhamzanaqvi@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=mazanaqvi&style=flat-square&color=3b82f6" />
+
+**[alihumza.com](https://alihumza.com)** &nbsp;&bull;&nbsp; **[XrossApps.com](https://www.xrossapps.com/)** &nbsp;&bull;&nbsp; **[LinkedIn](https://www.linkedin.com/in/mazanaqvi/)** &nbsp;&bull;&nbsp; **[Stack Overflow](https://stackoverflow.com/users/13111347/ali-hamza)**
+
+*Building apps that people love to use.*
+
 </div>
