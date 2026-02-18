@@ -24,8 +24,7 @@
 ```dart
 class AliHamza {
   final role       = "Senior Software Engineer";
-  final company    = "Breezelab, Singapore";
-  final sideHustle = "Founder @ XrossApps.com";
+  final company = "Founder @ XrossApps.com";
   final location   = "Lahore, Pakistan";
   final experience = "5+ years";
   final projects   = "20+ delivered";
@@ -79,7 +78,7 @@ class AliHamza {
 | When | Where | Role |
 |:-----|:------|:-----|
 | **2024 — Now** | Breezelab, Singapore | Senior Developer (Remote) |
-| **2023 — 2024** | Wave, USA | Software Engineer (Remote) |
+| **2023 — 2024** | FrontRow, USA | Software Engineer (Remote) |
 | **2022 — 2023** | Innovage.io | Software Engineer |
 | **2020 — Now** | Freelance / XrossApps | Founder & Lead Developer |
 
