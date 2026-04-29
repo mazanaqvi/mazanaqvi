@@ -26,7 +26,7 @@ class AliHamza {
   final role       = "Senior Software Engineer";
   final company = "Founder @ XrossApps.com";
   final location   = "Lahore, Pakistan";
-  final experience = "5+ years";
+  final experience = "3+ years";
   final projects   = "20+ delivered";
   
   List<String> get dailyTools => [
